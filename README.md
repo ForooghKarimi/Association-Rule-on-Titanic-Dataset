@@ -1,1 +1,1 @@
-# Association-Rule-on-Titanic-Dataset
+# Association-Rule-Mining-on-Titanic-Dataset
