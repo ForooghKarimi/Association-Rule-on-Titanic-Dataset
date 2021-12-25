@@ -1,5 +1,5 @@
 # Association-Rule-Mining-on-Titanic-Dataset (with R)
-> In this project I tried to predict purchasing behaviour of customers using apriori algorithm (Association Rule). This rule shows how frequently a itemset occurs in a transaction and can be used to predict what a customer will buy next. 
+> In this project I tried to use Association Rule Technique to find patterns in Titanic dataset that shows what are the relationships between passengers' survaval and their social class, sex, age.
 * the project is built with R. 
 
 
