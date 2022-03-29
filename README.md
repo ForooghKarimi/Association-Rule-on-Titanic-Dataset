@@ -1,5 +1,5 @@
 # Association-Rule-Mining-on-Titanic-Dataset (with R)
-> In this project I tried to use Association Rule Technique to find patterns in Titanic dataset that shows what are the relationships between passengers' survaval and their social class, sex, age.
+> In this project I tried to use Association Rule Technique to find patterns in Titanic dataset that shows what are the relationships between passengers' survival and their social class, sex, and age.
 * the project is built with R. 
 
 
